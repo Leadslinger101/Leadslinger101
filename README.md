@@ -1,0 +1,5 @@
+- 👋 Hello, my name is Jordan
+- 👀 I’m interested in secure code
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on c++, python, sql and secure code projects 
+- 📫 How to reach me - jordanpaulnolin@gmail.com
